@@ -1,0 +1,13 @@
+Step 1: Install Pygame
+Open your command prompt or terminal.
+Run the following command to install Pygame:
+pip install pygame
+
+Step 2: Verify the Installation
+After the installation completes, verify that Pygame was installed correctly by running:
+
+python -m pygame.examples.aliens
+
+Step 3: Run the Game
+run the game from terminal by cmd
+python main.py
